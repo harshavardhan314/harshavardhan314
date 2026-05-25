@@ -24,8 +24,6 @@ Hi 👋, I'm **Tariviti Harshavardhan**, a passionate **Full Stack Web Developer
 
 ⚡ I’m also interested in **DSA, Competitive Programming, and Backend Development**.
 
-🏆 Solved 1000+ coding problems across coding platforms and continuously learning new technologies.
-
 🚀 Currently exploring **TypeScript, Next.js, and System Design**.
 
 <br clear="right"/>
