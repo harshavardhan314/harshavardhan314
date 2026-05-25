@@ -24,15 +24,34 @@
  * @status     Open to opportunities 🚀
  */
 
-
-  name:     "Tariviti Harshavardhan"
-  username: "harshavardhan314"
+const harsha = {
+  name:     "Tariviti Harshavardhan",
+  username: "harshavardhan314",
 
   // 🔨 What I'm building
-  currentlyBuilding: "Full-stack apps that solve real problems 🔥"
+  currentlyBuilding: "Full-stack apps that solve real problems 🔥",
 
   // 📚 What I'm learning
-  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"]
+  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"],
+
+  // 💬 Talk to me about
+  expertise: ["React", "Node.js", "JavaScript", "MongoDB", "REST APIs"],
+
+  // 🧩 Problem Solving
+  codingProfiles: {
+    leetcode:  "leetcode.com/u/harsha_112/",   
+    github:    "github.com/harshavardhan314",  
+  },
+
+  // 🌐 Find me here
+  portfolio: "https://harsha314-portfolio.netlify.app/",
+
+  // ⚡ Fun fact
+  funFact: () => "I debug with console.log and I'm NOT ashamed 😄",
+};
+
+// Initialize Harsha...
+console.log(`Hello World! I'm ${harsha.name} 👋`);
 ```
 
 <br clear="right"/>
@@ -114,26 +133,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshavardhan314&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan314&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=harshavardhan314&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=harshavardhan314&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshavardhan314&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan314&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshavardhan314&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=harshavardhan314&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
