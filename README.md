@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harsha%20Vardhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tariviti%20Harshavardhan&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=55&descSize=16"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Harsha+Vardhan+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Cool+Stuff+with+JavaScript+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+CSS;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Tariviti+Harshavardhan+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Cool+Stuff+with+JavaScript+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+CSS;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,22 +17,41 @@
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
+/**
+ * @developer  Tariviti Harshavardhan
+ * @role       Full Stack Web Developer
+ * @location   India 🇮🇳
+ * @status     Open to opportunities 🚀
+ */
 
-  name:     "Tariviti Harsha Vardhan",
+const harsha = {
+  name:     "Tariviti Harshavardhan",
   username: "harshavardhan314",
 
   // 🔨 What I'm building
   currentlyBuilding: "Full-stack apps that solve real problems 🔥",
 
+  // 📚 What I'm learning
+  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"],
+
+  // 💬 Talk to me about
+  expertise: ["React", "Node.js", "JavaScript", "MongoDB", "REST APIs"],
+
   // 🧩 Problem Solving
   codingProfiles: {
-    leetcode:  "leetcode.com/u/harsha_112/",   // 🟡 Active solver
-    github:    "github.com/harshavardhan314",   // 🟢 1330+ contributions
+    leetcode:  "leetcode.com/u/harsha_112/",   
+    github:    "github.com/harshavardhan314",  
   },
 
   // 🌐 Find me here
   portfolio: "https://harsha314-portfolio.netlify.app/",
 
+  // ⚡ Fun fact
+  funFact: () => "I debug with console.log and I'm NOT ashamed 😄",
+};
+
+// Initialize Harsha...
+console.log(`Hello World! I'm ${harsha.name} 👋`);
 ```
 
 <br clear="right"/>
@@ -135,29 +154,14 @@
 
 </div>
 
----
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshavardhan314/harshavardhan314/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshavardhan314/harshavardhan314/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harshavardhan314/harshavardhan314/output/github-snake.svg"/>
-</picture>
-
-</div>
-
-> ⚠️ **To activate the snake:** Create `.github/workflows/snake.yml` in this repo with the Platane/snk action and run it once. ([Guide here](https://github.com/Platane/snk))
-
----
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-[![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan314&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harshavardhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan314&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -168,8 +172,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsha314-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarivitiharshavardhan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hharshavardhan974@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshavardhan314)
 
 </div>
