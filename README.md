@@ -17,25 +17,13 @@
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
-/**
- * @developer  Harsha Vardhan
- * @role       Full Stack Web Developer
- * @location   India 🇮🇳
- * @status     Open to opportunities 🚀
- */
 
 const harsha = {
-  name:     "Harsha Vardhan",
+  name:     "Tariviti Harsha Vardhan",
   username: "harshavardhan314",
 
   // 🔨 What I'm building
   currentlyBuilding: "Full-stack apps that solve real problems 🔥",
-
-  // 📚 What I'm learning
-  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"],
-
-  // 💬 Talk to me about
-  expertise: ["React", "Node.js", "JavaScript", "MongoDB", "REST APIs"],
 
   // 🧩 Problem Solving
   codingProfiles: {
@@ -46,15 +34,6 @@ const harsha = {
   // 🌐 Find me here
   portfolio: "https://harsha314-portfolio.netlify.app/",
 
-  // ⚡ Fun fact
-  funFact: () => "I debug with console.log and I'm NOT ashamed 😄",
-
-  // 🎯 2025 Goals
-  goals: ["Master DSA", "Build SaaS product", "Land dream job 💼"],
-};
-
-// Initialize Harsha...
-console.log(`Hello World! I'm ${harsha.name} 👋`);
 ```
 
 <br clear="right"/>
