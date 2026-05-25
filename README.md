@@ -12,21 +12,72 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧠 About Me
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
+/**
+ * @developer  Harsha Vardhan
+ * @role       Full Stack Web Developer
+ * @location   India 🇮🇳
+ * @status     Open to opportunities 🚀
+ */
+
 const harsha = {
-  name: "Harsha Vardhan",
+  name:     "Harsha Vardhan",
   username: "harshavardhan314",
-  location: "India 🇮🇳",
-  role: "Full Stack Web Developer",
-  currentlyLearning: ["DSA", "System Design", "TypeScript"],
-  currentlyBuilding: "Awesome full-stack projects 🔥",
-  askMeAbout: ["React", "Node.js", "JavaScript", "MongoDB", "CSS"],
-  funFact: "I turn ☕ coffee into 💻 code!",
+
+  // 🔨 What I'm building
+  currentlyBuilding: "Full-stack apps that solve real problems 🔥",
+
+  // 📚 What I'm learning
+  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"],
+
+  // 💬 Talk to me about
+  expertise: ["React", "Node.js", "JavaScript", "MongoDB", "REST APIs"],
+
+  // 🧩 Problem Solving
+  codingProfiles: {
+    leetcode:  "leetcode.com/u/harsha_112/",   // 🟡 Active solver
+    github:    "github.com/harshavardhan314",   // 🟢 1330+ contributions
+  },
+
+  // 🌐 Find me here
   portfolio: "https://harsha314-portfolio.netlify.app/",
+
+  // ⚡ Fun fact
+  funFact: () => "I debug with console.log and I'm NOT ashamed 😄",
+
+  // 🎯 2025 Goals
+  goals: ["Master DSA", "Build SaaS product", "Land dream job 💼"],
 };
+
+// Initialize Harsha...
+console.log(`Hello World! I'm ${harsha.name} 👋`);
 ```
+
+<br clear="right"/>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harsha_112/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshavardhan314)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsha314-portfolio.netlify.app/)
+
+</div>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/harsha_112/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/harsha_112?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
+</a>
+
+</div>
 
 ---
 
