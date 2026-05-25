@@ -18,7 +18,6 @@
 
 ```javascript
 
-const harsha = {
   name:     "Tariviti Harsha Vardhan",
   username: "harshavardhan314",
 
