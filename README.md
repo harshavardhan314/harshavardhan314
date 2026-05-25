@@ -12,47 +12,21 @@
 
 ---
 
+
+
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-/**
- * @developer  Tariviti Harshavardhan
- * @role       Full Stack Web Developer
- * @location   India 🇮🇳
- * @status     Open to opportunities 🚀
- */
+Hi 👋, I'm **Tariviti Harshavardhan**, a passionate **Full Stack Web Developer** from India 🇮🇳.
 
-const harsha = {
-  name:     "Tariviti Harshavardhan",
-  username: "harshavardhan314",
+💻 I enjoy building modern web applications using **React, Node.js, JavaScript, and MongoDB**.
 
-  // 🔨 What I'm building
-  currentlyBuilding: "Full-stack apps that solve real problems 🔥",
+⚡ I’m also interested in **DSA, Competitive Programming, and Backend Development**.
 
-  // 📚 What I'm learning
-  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"],
+🏆 Solved 1000+ coding problems across coding platforms and continuously learning new technologies.
 
-  // 💬 Talk to me about
-  expertise: ["React", "Node.js", "JavaScript", "MongoDB", "REST APIs"],
-
-  // 🧩 Problem Solving
-  codingProfiles: {
-    leetcode:  "leetcode.com/u/harsha_112/",   
-    github:    "github.com/harshavardhan314",  
-  },
-
-  // 🌐 Find me here
-  portfolio: "https://harsha314-portfolio.netlify.app/",
-
-  // ⚡ Fun fact
-  funFact: () => "I debug with console.log and I'm NOT ashamed 😄",
-};
-
-// Initialize Harsha...
-console.log(`Hello World! I'm ${harsha.name} 👋`);
-```
+🚀 Currently exploring **TypeScript, Next.js, and System Design**.
 
 <br clear="right"/>
 
@@ -116,7 +90,7 @@ console.log(`Hello World! I'm ${harsha.name} 👋`);
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
@@ -140,8 +114,6 @@ console.log(`Hello World! I'm ${harsha.name} 👋`);
 ![](https://streak-stats.demolab.com/?user=harshavardhan314&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshavardhan314&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=harshavardhan314&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
