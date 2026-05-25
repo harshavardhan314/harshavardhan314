@@ -24,34 +24,15 @@
  * @status     Open to opportunities 🚀
  */
 
-const harsha = {
-  name:     "Tariviti Harshavardhan",
-  username: "harshavardhan314",
+
+  name:     "Tariviti Harshavardhan"
+  username: "harshavardhan314"
 
   // 🔨 What I'm building
-  currentlyBuilding: "Full-stack apps that solve real problems 🔥",
+  currentlyBuilding: "Full-stack apps that solve real problems 🔥"
 
   // 📚 What I'm learning
-  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"],
-
-  // 💬 Talk to me about
-  expertise: ["React", "Node.js", "JavaScript", "MongoDB", "REST APIs"],
-
-  // 🧩 Problem Solving
-  codingProfiles: {
-    leetcode:  "leetcode.com/u/harsha_112/",   
-    github:    "github.com/harshavardhan314",  
-  },
-
-  // 🌐 Find me here
-  portfolio: "https://harsha314-portfolio.netlify.app/",
-
-  // ⚡ Fun fact
-  funFact: () => "I debug with console.log and I'm NOT ashamed 😄",
-};
-
-// Initialize Harsha...
-console.log(`Hello World! I'm ${harsha.name} 👋`);
+  currentlyLearning: ["DSA & Problem Solving", "System Design", "TypeScript"]
 ```
 
 <br clear="right"/>
