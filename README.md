@@ -94,11 +94,11 @@ Hi 👋, I'm **Tariviti Harshavardhan**, a passionate **Full Stack Web Developer
 
 | 🖥️ Project | 📝 Description | 🔧 Tech | 🌐 Live |
 |:---:|:---:|:---:|:---:|
+| 🤖 **AI Mock Interview Platform** | Resume-based AI mock interview platform with voice support, AI-generated questions, and detailed feedback | React, Node.js, Express, PostgreSQL, Groq, Clerk | [Live Demo](https://ai-mock-interview-qnph.onrender.com/) |
 | 🍅 **Tomato** | Full-stack food ordering app with cart & payments | React, Node.js, MongoDB | [Live Demo](https://tomato-frontend-new.onrender.com/) |
 | 💬 **Chat App** | Real-time chat application with WebSockets | JavaScript, Node.js, Socket.io | [Live Demo](https://chat-app-frontend-pwh5.onrender.com) |
 | 🍽️ **RecipeFinder** | Search & discover recipes from around the world | CSS, JavaScript, API | [Live Demo](https://recipefinder88.netlify.app/) |
 | 🤖 **Gemini Flash 2.0** | Google Gemini AI chatbot clone | React, Gemini API | [Live Demo](https://gemini-clone-harsha-112.netlify.app/) |
-| 🌤️ **Weather App** | Real-time weather forecast app | JavaScript, Weather API | [Live Demo](https://weatherapp314.netlify.app/) |
 | 🧑‍💼 **Portfolio** | Personal developer portfolio website | CSS, HTML, JavaScript | [Live Demo](https://harsha314-portfolio.netlify.app/) |
 
 </div>
